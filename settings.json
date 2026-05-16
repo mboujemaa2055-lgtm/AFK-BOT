@@ -6,9 +6,9 @@
     "type": "offline"
   },
   "server": {
-    "ip": "slobtest1.aternos.me",
-    "port": 27586,
-    "version": "",
+    "ip": "MoroccanCraft.aternos.me",
+    "port": 21372,
+    "version": "1.21.1",
     "try-creative": false
   },
   "position": {
