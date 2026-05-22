@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "MoroccanCraft.aternos.me",
-    "port": 21372,
+    "ip": "DarkSideMinecraft.aternos.me",
+    "port": 17307,
     "version": "1.21.1",
     "try-creative": false
   },
